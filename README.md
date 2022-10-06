@@ -4,7 +4,7 @@
 
 ![Badge versão](http://img.shields.io/static/v1?label=VERSÃO&message=%201.0&color=GREEN&style=for-the-badge)
 
-Primeiro projeto envolvendo HTML, CSS e JS. 
+Primeiro projeto envolvendo HTML, CSS e JS. Uma calculadora simples.
 [Clique aqui para acessar o projeto em funcionamento.](https://watanegreirosmonteiro.github.io/calculadora/)
 
 
